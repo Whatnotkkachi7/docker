@@ -28,6 +28,3 @@ Execute the file ```criminalip_docker.py```
 ----
 
 Hope you enjoy!
-
-If you are interested in fetching other type of assets like [Webcam](https://github.com/Whatnotkkachi7/webcam/tree/de6eda82b0adc24acef4e93f260279473b38ceef/Webcam/readme.md
-) or [Printer](https://github.com/Whatnotkkachi7/printer/tree/090cdb8c4fcc7c6fa2085c042b55c9718fa5cf95/Printer/Printer/readme.md), check out my other repositories in [criminalIP_find_Application](https://github.com/Whatnotkkachi7/criminalIP_find_Application)
