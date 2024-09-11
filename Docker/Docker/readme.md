@@ -28,3 +28,5 @@ Execute the file ```criminalip_docker.py```
 ----
 
 Hope you enjoy!
+
+If you are interested in fetching other type of assets like Webcam or Printer, check out my other repositories in [criminalIP_find_Application](https://github.com/Whatnotkkachi7/criminalIP_find_Application)
